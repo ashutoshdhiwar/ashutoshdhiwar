@@ -1,15 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">👋 Hey there, I'm [Your Name]!</h1>
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashutoshdhiwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdhiwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdhiwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  🚀 Linux Enthusiast | 🖥️ System Admin | 🌐 Web Server Expert  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashutoshdhiwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ **About Me**  
+- 🏗️ Passionate about **Linux System Administration**, **Partition Management**, and **HTTP Servers**  
+- 🔧 Skilled in **Configuring Web Servers (Nginx, Apache)**, **Logical & Physical Partitions**, and **Bash Scripting**  
+- 🎯 Constantly learning and exploring **automation & cloud technologies**  
+
+---
+
+### ⚡ **Skills & Technologies**  
+🔹 **Operating Systems**: Linux (Ubuntu, Debian, CentOS)  
+🔹 **Web Servers**: Apache, Nginx  
+🔹 **Partitioning**: LVM, RAID, fdisk, parted  
+🔹 **Networking**: DNS, Firewalls, SSH, FTP  
+🔹 **Scripting & Automation**: Bash, Shell Scripting  
+🔹 **Version Control**: Git & GitHub  
+
+---
+
+### 📂 **Projects & Contributions**  
+
+🚀 **Linux System Automation Script**  
+_Automated Bash script to configure servers and optimize performance._  
+🔗 [GitHub Repo](#)  
+
+📡 **Nginx & Apache Configuration Guide**  
+_A comprehensive guide to setting up secure and optimized web servers._  
+🔗 [GitHub Repo](#)  
+
+🗂 **Logical Partitioning & LVM Setup**  
+_Step-by-step guide for efficient disk management in Linux._  
+🔗 [GitHub Repo](#)  
+
+---
+
+### 📊 **GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 **Get in Touch!**  
+💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: your.email@example.com  
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**  
