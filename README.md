@@ -1,22 +1,33 @@
-### Hi there 👋, I'm [Your Name]  
+<h1 align="center">👋 Hey there, I'm Ashutosh Dhiwar</h1>
 
-🚀 Cloud Engineer | 🔒 Cybersecurity Enthusiast | 🖥️ Linux & System Admin  
+<p align="center">
+  🚀 Linux Enthusiast | 🖥️ System Admin | 🌐 Web Server Expert  
+</p>
 
-I am passionate about **cloud computing**, **cybersecurity**, and **Linux system administration**. I love working with cloud platforms, securing systems, and automating infrastructure.
+---
 
-### 🛠️ Tech Stack & Skills:
-- ☁️ **Cloud Platforms**: AWS | Azure | Google Cloud
-- 🔒 **Cybersecurity**: Network Security | Ethical Hacking | SIEM | Firewalls
-- 🖥️ **System Administration**: Linux | Windows Server | Bash Scripting
-- 🏗️ **Infrastructure as Code**: Terraform | Ansible | CloudFormation
-- 🔧 **DevOps Tools**: Docker | Kubernetes | CI/CD (Jenkins, GitHub Actions)
-- 📡 **Networking**: TCP/IP | VPN | DNS | Load Balancing
+### 🛠️ **About Me**  
+- 🏗️ Passionate about **Linux System Administration**, **Partition Management**, and **HTTP Servers**  
+- 🔧 Skilled in **Configuring Web Servers (Nginx, Apache)**, **Logical & Physical Partitions**, and **Bash Scripting**  
+- 🎯 Constantly learning and exploring **automation & cloud technologies**  
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+---
 
-### 📫 Connect with me:
-- 🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-dhiwar-a5767921b/
-- 📧 Email:ashutoshdhiwar04@gmail.com
+### ⚡ **Skills & Technologies**  
+🔹 **Operating Systems**: Linux (Ubuntu, Debian, CentOS)  
+🔹 **Web Servers**: Apache, Nginx  
+🔹 **Partitioning**: LVM, RAID, fdisk, parted  
+🔹 **Networking**: DNS, Firewalls, SSH, FTP  
+🔹 **Scripting & Automation**: Bash, Shell Scripting  
+🔹 **Version Control**: Git & GitHub  
 
-Let's connect and build something amazing together! 🚀
+---
+---
+
+### 📫 **Get in Touch!**  
+💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: your.email@example.com  
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**  
