@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hey there, I'm Ashutosh Dhiwar</h1>
 
 <p align="center">
   🚀 Linux Enthusiast | 🖥️ System Admin | 🌐 Web Server Expert  
@@ -22,31 +22,6 @@
 🔹 **Version Control**: Git & GitHub  
 
 ---
-
-### 📂 **Projects & Contributions**  
-
-🚀 **Linux System Automation Script**  
-_Automated Bash script to configure servers and optimize performance._  
-🔗 [GitHub Repo](#)  
-
-📡 **Nginx & Apache Configuration Guide**  
-_A comprehensive guide to setting up secure and optimized web servers._  
-🔗 [GitHub Repo](#)  
-
-🗂 **Logical Partitioning & LVM Setup**  
-_Step-by-step guide for efficient disk management in Linux._  
-🔗 [GitHub Repo](#)  
-
----
-
-### 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📫 **Get in Touch!**  
